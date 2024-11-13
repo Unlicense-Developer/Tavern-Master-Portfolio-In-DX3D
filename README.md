@@ -4,3 +4,4 @@
 * **게임 장르** : 주점 운영 시뮬레이션
 * **개발 인원** : 1인
 * **핵심 기술** : DirectX11, FMOD, ImGui, Assimp, DXTex
+* **Notion** : https://www.notion.so/unlicense-developer/Tavern-Master-0334d8f27eff43088a3c552df1c47f27?pvs=4
