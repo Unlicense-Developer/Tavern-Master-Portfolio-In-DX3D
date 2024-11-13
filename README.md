@@ -1,1 +1,6 @@
-![image](https://github.com/user-attachments/assets/79b1cc47-dc48-4bdb-beb4-6ceae96cb69e)
+# Tavern Master
+[![image](https://github.com/user-attachments/assets/ef87e474-ca82-4186-9421-1f2ededab164)](https://youtu.be/vMxOww6r8Fg?si=9fadFGcezjWTjN3U)
+* **개발 기간** : 2023. 03. 17 ~ 2023. 04. 13 / 28일
+* **게임 장르** : 주점 운영 시뮬레이션
+* **개발 인원** : 1인
+* **핵심 기술** : DirectX11, FMOD, ImGui, Assimp, DXTex
